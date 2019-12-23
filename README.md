@@ -4,7 +4,7 @@
 
 Heartbeat provides basic health checks and reporting tools for system availability.
 
-**Deprecated Heartbeat module. Use HealthCheck module instead.**
+**Deprecated HeartbeatPage module. Use HealthCheck module instead.**
 
 ## Installation
 
